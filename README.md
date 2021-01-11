@@ -6,6 +6,8 @@ Link to the kaggle competition : https://www.kaggle.com/c/titanic/overview
 All the data sets are here uploaded here , but still
 Dataset Link : - https://www.kaggle.com/c/titanic/data
 
- **Data Visualization** :  matplotlib , seaborn
+ **Data visualization** :  matplotlib , seaborn
+ 
  **Data Handling** : pandas, numpy
+ 
  **Programming language** : python3
